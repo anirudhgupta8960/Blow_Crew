@@ -1,0 +1,6 @@
+crewai 
+crewai_tools
+load_dotenv
+langchain-huggingface
+# crewai[google-genai] or pip install "crewai[google-genai]"
+tavily-python
